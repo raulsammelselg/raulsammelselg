@@ -65,4 +65,4 @@ Rakvere Vocational School, Estonia (2018)
 - Avid gamer, preferring single-player games
 - Watching YouTube videos (learning, entertainment)
 - creative outlets
-  - digital art (3D, Modelling, Texturing)
+  - digital art *GIMP, Blender*
