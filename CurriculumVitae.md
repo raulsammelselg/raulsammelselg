@@ -63,4 +63,6 @@ Rakvere Vocational School, Estonia (2018)
 ## Hobbies
 
 - Avid gamer, preferring single-player games
-- Enjoys spending time with cat, watching YouTube videos, and doing creative things such as digital art (3D, Modelling, Texturing)
+- Watching YouTube videos (learning, entertainment)
+- creative outlets
+  - digital art (3D, Modelling, Texturing)
