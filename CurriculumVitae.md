@@ -1,6 +1,7 @@
 # Raul Sammelselg
 
 Tallinn, Estonia
+
 Email: raul.sammelselg+CV@gmail.com  
 
 ## Summary
