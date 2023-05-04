@@ -1,8 +1,7 @@
 # Raul Sammelselg
 
-Tallinn, Estonia  
-Phone: +37258273749  
-Email: raul.sammelselg@gmail.com  
+Tallinn, Estonia
+Email: raul.sammelselg+CV@gmail.com  
 
 ## Summary
 
@@ -15,6 +14,10 @@ I would consider my strengths to be:
 - Good at teaching others
 - Problem solving skills
 - Finding solutions to complex problems
+
+My weaknesses:
+
+- I am not good with git messages and naming things
 
 ## Education
 
