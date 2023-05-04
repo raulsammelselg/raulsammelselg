@@ -1,35 +1,39 @@
 # Raul Sammelselg
 
-Tallinn, Estonia
+Tallinn, Estonia  
+Phone: +37258273749  
+Email: raul.sammelselg@gmail.com  
 
-Email: raul.sammelselg+github@gmail.com
+## Objective
 
-## Objective:
-Seeking a challenging IT position where I can utilize my skills and experience to contribute to the success of the company.
+Seeking a challenging IT position where I can utilize my skills and experience to contribute to the success of the company, as well as improve my skills and expanding my expertise.
 
-## Education:
-IT Systems Specialist, Rank 4 (with honors)
+## Education
+
+IT Systems Specialist, Rank 4 (with honors)  
 Rakvere Vocational School, Estonia (2018)
 
-## Experience:
-IT Specialist
+## Experience
 
-Lamarmora OÜ, Tallinn, Estonia (March 2021 - Present)
+**IT Specialist**  
+*Lamarmora OÜ, Tallinn, Estonia* (March 2021 - Present)
 - Manage websites and write front-end and back-end code using Python, JavaScript, HTML, and React
 - Troubleshoot and find solutions to complex problems
 
-## Skills:
+## Skills
+
 - Proficient in Microsoft Office, including Excel, PowerPoint, and Office
 - Advanced in HTML, CSS, and JavaScript
-- Familiar with C language
-- Highly familiar with Python, capable of solving a variety of issues and automating up to 20% of workload
+- Familiar with C, C#, C++ languages
+- Highly familiar with Python, capable of solving a variety of issues
 
-## Languages:
+## Languages
+
 - Estonian (native)
 - English (fluent)
 - German (basic)
 
-## Hobbies:
+## Hobbies
+
 - Avid gamer, preferring single-player games
-- Enjoys spending time with cat, watching YouTube videos, and doing creative things such as digital art.
-- Working with computer hardware, building/upgrading systems
+- Enjoys spending time with cat, watching YouTube videos, and doing creative things such as digital art (3D, Modelling, Texturing)
