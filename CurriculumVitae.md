@@ -1,5 +1,7 @@
 # Raul Sammelselg
+
 Tallinn, Estonia
+
 Email: raul.sammelselg+github@gmail.com
 
 ## Objective:
@@ -11,6 +13,7 @@ Rakvere Vocational School, Estonia (2018)
 
 ## Experience:
 IT Specialist
+
 Lamarmora OÜ, Tallinn, Estonia (March 2021 - Present)
 - Manage websites and write front-end and back-end code using Python, JavaScript, HTML, and React
 - Troubleshoot and find solutions to complex problems
