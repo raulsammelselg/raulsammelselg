@@ -1,24 +1,24 @@
 # Raul Sammelselg
 
-Tallinn, Estonia
-
-Email: raul.sammelselg+CV@gmail.com  
+Tallinn, Estonia  
+Phone: +37258273749  
+Email: raul.sammelselg@gmail.com  
 
 ## Summary
 
-I am Raul, born and raised in Estonia, currently living in Tallinn. I learned programming briefly at school and liked it so much I started learning more of it on my own, finally after graduating landing a job as developer/programmer in a company with a good team. The team wasn't as experienced as I had hoped, so I started working/learning from the job and tasks handed to me. I have learned a lot from the job and I am still learning. I desire to advance in my life, take on new challanges, learn from different kinds of people who have different perspectives. I am a fast learner and I am not afraid to ask questions, also a good team player and can work alone if needed. I am looking for a position where I am able to expand my knowledge and expertise, and contribute to the success of the company and my coworkers.
+I am Raul, born and raised in Estonia, currently living in Tallinn. I learned programming briefly at school and liked it so much I started learning more of it on my own, finally after graduating landing a job as developer/programmer in a company with a good team. the team wasn't as experienced as I had hoped, so I started working/learning from the job and tasks handed to me. I have learned a lot from the job and I am still learning, but I feel like I need a change of pace and a new environment to learn from. I am a fast learner and I am not afraid to ask questions, I am also a good team player and I can work alone if needed. I am looking for a job where I can learn and grow as a developer/programmer.
 
 I would consider my strengths to be:
 
-- Fast learner, able to learn new things quickly and independently
+- Fast learner
 - Team player, willing to help others and teach
 - Good at teaching others
-- Problem solving skills
-- Finding solutions to complex problems
+- Problem solving
+- Finding solutions
 
-My weaknesses:
+## Objective
 
-- I am not good with git messages and naming things
+Seeking a challenging IT position where I can utilize my skills and experience to contribute to the success of the company, as well as improve my knowledge and expanding my expertise.
 
 ## Education
 
@@ -64,6 +64,4 @@ Rakvere Vocational School, Estonia (2018)
 ## Hobbies
 
 - Avid gamer, preferring single-player games
-- Watching YouTube videos (learning, entertainment)
-- creative outlets
-  - digital art: *GIMP, Blender*
+- Enjoys spending time with cat, watching YouTube videos, and doing creative things such as digital art (3D, Modelling, Texturing)
