@@ -36,7 +36,7 @@ Rakvere Vocational School, Estonia (2018)
 
 #### Work details
 
-- [vehicle.ee](https://vehicle.ee) & [vehicle.lv](https://vehicle.lv) First big project *html, css, javascript, python(django)*
+- [vehicle.ee](https://vehicle.ee) & [vehicle.lv](https://vehicle.lv) First big project *html, css, javascript, python(django)* (currently transitioning to react and nodejs)
 - [mypowers.fi](https://mypowers.fi) Second project, making a website from templates used in previous project, plus managing the original wordpress site [mypowers.se](https://mypowers.se) *react, html, css, javascript, python(django), wordpress*
 - [realty.ee](https://www.realty.ee) Cooperative project with team and single freelancer *html, css, javascript, php(Yii2)*
 - creating web scrapers for the company
