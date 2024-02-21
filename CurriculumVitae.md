@@ -48,8 +48,9 @@ Rakvere Vocational School, Estonia (2018)
 
 - Proficient in Microsoft Office, including Excel, PowerPoint, and Office
   - I have used Microsoft Office for many years, in school, familiar with designing and creating presentations, spreadsheets, and documents
-- Advanced in HTML, CSS, and JavaScript
+- Advanced in HTML, CSS, and JavaScript (TypeScrypt)
   - I am well versed in HTML, CSS, and JavaScript, using them creating websites and web applications
+  - Developing web applications, API servers, Databases
 - Familiar with C, C#, C++ languages
   - Used C, C#, C++ for creating small programs for automating tasks, and for programming microcontrollers
 - Highly familiar with Python, capable of solving a variety of issues
