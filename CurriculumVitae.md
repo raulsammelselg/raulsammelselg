@@ -27,9 +27,24 @@ Rakvere Vocational School, Estonia (2018)
 
 ## Experience
 
+### Web Developer
+
+*Indiead OÜ, Tallinn, Estonia* (May 2024 - present)
+
+- Manage customers websites, MySQL databases, updates to website components, plugins
+- Front-end coding, creating and modifying existing code
+- Back-end coding, PHP, Wordpress, Themes, Laravel
+- React native app development
+
+#### Work details
+
+- Managing customer wordpress webistes, doing routine updates, dealing with PHP and plugin updates, installing new plugins, setting up extra functionality
+- React native, adding components and styling them
+- Building working prototypes for web pages, simple html, css, js proofs of concept, as a base for future development
+
 ### IT Specialist
 
-*Lamarmora OÜ, Tallinn, Estonia* (March 2021 - Present)
+*Lamarmora OÜ, Tallinn, Estonia* (March 2021 - May 2024)
 
 - Manage websites and write front-end and back-end code using Python, JavaScript, HTML, and React
 - Troubleshoot and find solutions to complex problems
@@ -51,10 +66,12 @@ Rakvere Vocational School, Estonia (2018)
 - Advanced in HTML, CSS, and JavaScript (TypeScrypt)
   - I am well versed in HTML, CSS, and JavaScript, using them creating websites and web applications
   - Developing web applications, API servers, Databases
-- Familiar with C, C#, C++ languages
+- Familiar with C, C#, C++, PHP languages
   - Used C, C#, C++ for creating small programs for automating tasks, and for programming microcontrollers
 - Highly familiar with Python, capable of solving a variety of issues
   - Building websites in Django, creating web scrapers, creating small to large programs for automating tasks
+- PHP skills
+  - Wordpress site management, routine updates, changes to theme files
 
 ## Languages
 
