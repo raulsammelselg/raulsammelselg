@@ -71,7 +71,8 @@ Rakvere Vocational School, Estonia (2014 - 2018)
 - Highly familiar with Python, capable of solving a variety of issues
   - Building websites in Django, creating web scrapers, creating small to large programs for automating tasks
 - PHP skills
-  - Wordpress site management, routine updates, changes to theme files
+  - Wordpress site management, routine updates, changes to theme files, custom functionality
+  - Laravel web programming, working with APIs
 
 ## Languages
 
