@@ -22,8 +22,8 @@ Seeking a challenging IT position where I can utilize my skills and experience t
 
 ## Education
 
-IT Systems Specialist, Rank 4 (with honors)  
-Rakvere Vocational School, Estonia (2018)
+IT Systems Specialist, Rank 4 (with honors) [Occupational Qualification Certificate](https://www.kutseregister.ee/ctrl/en/Tunnistused/vaata/10693498/1)
+Rakvere Vocational School, Estonia (2014 - 2018)
 
 ## Experience
 
