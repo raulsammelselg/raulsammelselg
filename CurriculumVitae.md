@@ -1,7 +1,7 @@
 # Raul Sammelselg
 
 Tallinn, Estonia  
-Phone: +37258273748
+Phone: +37258273748  
 Email: raul.sammelselg@gmail.com  
 
 ## Summary
