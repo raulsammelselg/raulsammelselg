@@ -29,7 +29,7 @@ Rakvere Vocational School, Estonia (2014 - 2018)
 
 ### Web Developer
 
-*Indiead OÜ, Tallinn, Estonia* (May 2024 - present)
+*Indie AD OÜ, Tallinn, Estonia* (May 2024 - present)
 
 - Manage customers websites, MySQL databases, updates to website components, plugins
 - Front-end coding, creating and modifying existing code
