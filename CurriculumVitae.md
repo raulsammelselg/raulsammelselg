@@ -2,7 +2,7 @@
 
 Tallinn, Estonia  
 Phone: +37258273748  
-Email: raul.sammelselg@gmail.com  
+Email: raul@raulsam.ee  
 
 ## Summary
 
@@ -31,26 +31,31 @@ Rakvere Vocational School, Estonia (2014 - 2018)
 
 *Indie AD OÜ, Tallinn, Estonia* (May 2024 - present)
 
-- Manage customers websites, MySQL databases, updates to website components, plugins
-- Front-end coding, creating and modifying existing code
-- Back-end coding, PHP, Wordpress, Themes, Laravel
-- React native app development
-
-#### Work details
-
-- Managing customer wordpress webistes, doing routine updates, dealing with PHP and plugin updates, installing new plugins, setting up extra functionality
-- React native, adding components and styling them
-- Building working prototypes for web pages, simple html, css, js proofs of concept, as a base for future development
+- Manage customers websites, MySQL databases, updates to website components, plugins.
+- Front-end coding, creating and modifying existing code.
+- Back-end coding, PHP, Wordpress, Themes, Laravel.
+- React native app development.
 
 ### IT Specialist
 
 *Lamarmora OÜ, Tallinn, Estonia* (March 2021 - May 2024)
 
-- Manage websites and write front-end and back-end code using Python, JavaScript, HTML, and React
-- Troubleshoot and find solutions to complex problems
+- Manage websites and write front-end and back-end code using Python, JavaScript, HTML, and React.
+- Troubleshooting and finding solutions to complex problems.
 
 #### Work details
 
+##### Indead OÜ
+
+- [smarthives.organichoney.ee](https://smarthives.organichoney.ee/) A pure html single page project, made with just html, css and a graph library.
+- [arturehitus.ee](https://arturehitus.ee) Theme from design files, ground up.
+- [estpciwarriors.ee](https://estpciwarriors.ee) Theme from design files, ground up.
+- [luminova.ee](https://luminova.ee) Page builder theme, setting up website subpages and blocks without design, using premade theme components.
+- Managing customer wordpress webistes, doing routine updates, dealing with PHP and plugin updates, installing new plugins, setting up extra functionality.
+- React native, adding components and styling them.
+- Building working prototypes for web pages, simple *html, css, js* proofs of concept, as a base for future development.
+
+##### Lamarmora OÜ
 - [vehicle.ee](https://vehicle.ee) & [vehicle.lv](https://vehicle.lv) First big project *html, css, javascript, python(django)* (currently transitioning to react and nodejs)
 - [mypowers.fi](https://mypowers.fi) Second project, making a website from templates used in previous project, plus managing the original wordpress site [mypowers.se](https://mypowers.se) *react, html, css, javascript, python(django), wordpress*
 - [realty.ee](https://www.realty.ee) Cooperative project with team and single freelancer *html, css, javascript, php(Yii2)*
@@ -61,24 +66,28 @@ Rakvere Vocational School, Estonia (2014 - 2018)
 
 ## Skills
 
-- Proficient in Microsoft Office, including Excel, PowerPoint, and Office
-  - I have used Microsoft Office for many years, in school, familiar with designing and creating presentations, spreadsheets, and documents
-- Advanced in HTML, CSS, and JavaScript (TypeScrypt)
-  - I am well versed in HTML, CSS, and JavaScript, using them creating websites and web applications
-  - Developing web applications, API servers, Databases
-- Familiar with C, C#, C++, PHP languages
-  - Used C, C#, C++ for creating small programs for automating tasks, and for programming microcontrollers
-- Highly familiar with Python, capable of solving a variety of issues
-  - Building websites in Django, creating web scrapers, creating small to large programs for automating tasks
-- PHP skills
-  - Wordpress site management, routine updates, changes to theme files, custom functionality
-  - Laravel web programming, working with APIs
+- Proficient in Microsoft Office, including Excel, PowerPoint, and Office.
+  - I have used Microsoft Office for many years, in school, familiar with designing and creating presentations, spreadsheets, and documents.
+- Desingn software.
+  - Using sketch to implement design into projects.
+  - Adobe illustrator for implementing designs in projects.
+- Advanced in HTML, CSS, and JavaScript (TypeScrypt).
+  - I am well versed in HTML, CSS, and JavaScript, using them creating websites and web applications.
+  - Developing web applications, API servers, Databases.
+- Familiar with C, C#, C++, PHP languages.
+  - Used C, C#, C++ for creating small programs for automating tasks, and for programming microcontrollers.
+- Highly familiar with Python, capable of solving a variety of issues.
+  - Building websites in Django, creating web scrapers, creating small to large programs for automating tasks.
+- PHP skills.
+  - Wordpress site management, routine updates, changes to theme files, custom functionality, custom themes.
+  - Laravel web programming, working with APIs.
 
 ## Languages
 
 - Estonian (native)
 - English (fluent)
-- German (basic)
+- German (very basic)
+- Russian (very basic)
 
 ## Hobbies
 
